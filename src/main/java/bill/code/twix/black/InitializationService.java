@@ -1,3 +1,5 @@
+package bill.code.twix.black;
+
 import org.springframework.boot.SpringApplication;
 
 public class InitializationService {
