@@ -46,3 +46,4 @@ build/
 
 ### Twix ###
 src/main/resources/cred.properties
+src/main/resources/proto/*.proto
